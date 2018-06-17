@@ -40,9 +40,9 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.swingEnable = new System.Windows.Forms.CheckBox();
-            this.swingRadio1 = new System.Windows.Forms.RadioButton();
             this.swingRadio2 = new System.Windows.Forms.RadioButton();
+            this.swingRadio1 = new System.Windows.Forms.RadioButton();
+            this.swingEnable = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.orientationTrackbar)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.speedTrackbar)).BeginInit();
             this.groupBox1.SuspendLayout();
@@ -147,16 +147,17 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Fan Swing Mode";
             // 
-            // swingEnable
+            // swingRadio2
             // 
-            this.swingEnable.AutoSize = true;
-            this.swingEnable.Location = new System.Drawing.Point(7, 20);
-            this.swingEnable.Name = "swingEnable";
-            this.swingEnable.Size = new System.Drawing.Size(59, 17);
-            this.swingEnable.TabIndex = 0;
-            this.swingEnable.Text = "Enable";
-            this.swingEnable.UseVisualStyleBackColor = true;
-            this.swingEnable.CheckedChanged += new System.EventHandler(this.swingEnable_CheckedChanged);
+            this.swingRadio2.AutoSize = true;
+            this.swingRadio2.Enabled = false;
+            this.swingRadio2.Location = new System.Drawing.Point(99, 51);
+            this.swingRadio2.Name = "swingRadio2";
+            this.swingRadio2.Size = new System.Drawing.Size(97, 17);
+            this.swingRadio2.TabIndex = 2;
+            this.swingRadio2.Text = "Swing Speed 2";
+            this.swingRadio2.UseVisualStyleBackColor = true;
+            this.swingRadio2.CheckedChanged += new System.EventHandler(this.swingRadio2_CheckedChanged);
             // 
             // swingRadio1
             // 
@@ -172,17 +173,16 @@
             this.swingRadio1.UseVisualStyleBackColor = true;
             this.swingRadio1.CheckedChanged += new System.EventHandler(this.swingRadio1_CheckedChanged);
             // 
-            // swingRadio2
+            // swingEnable
             // 
-            this.swingRadio2.AutoSize = true;
-            this.swingRadio2.Enabled = false;
-            this.swingRadio2.Location = new System.Drawing.Point(99, 51);
-            this.swingRadio2.Name = "swingRadio2";
-            this.swingRadio2.Size = new System.Drawing.Size(97, 17);
-            this.swingRadio2.TabIndex = 2;
-            this.swingRadio2.Text = "Swing Speed 2";
-            this.swingRadio2.UseVisualStyleBackColor = true;
-            this.swingRadio2.CheckedChanged += new System.EventHandler(this.swingRadio2_CheckedChanged);
+            this.swingEnable.AutoSize = true;
+            this.swingEnable.Location = new System.Drawing.Point(7, 20);
+            this.swingEnable.Name = "swingEnable";
+            this.swingEnable.Size = new System.Drawing.Size(59, 17);
+            this.swingEnable.TabIndex = 0;
+            this.swingEnable.Text = "Enable";
+            this.swingEnable.UseVisualStyleBackColor = true;
+            this.swingEnable.CheckedChanged += new System.EventHandler(this.swingEnable_CheckedChanged);
             // 
             // Form1
             // 
@@ -200,7 +200,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.orientationTrackbar);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Ventilator Control Panel";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.orientationTrackbar)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.speedTrackbar)).EndInit();

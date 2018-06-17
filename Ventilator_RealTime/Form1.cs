@@ -33,6 +33,7 @@ namespace Ventilator_RealTime
             catch
             {
                 textBox1.Text = "ne dela. vjerovatno nije spojeno.";
+                power.Enabled = false;
             }
             
         }

@@ -8,3 +8,13 @@ C:\Users\Tone\source\repos\Ventilator_RealTime\Ventilator_RealTime\obj\Debug\Ven
 C:\Users\Tone\source\repos\Ventilator_RealTime\Ventilator_RealTime\obj\Debug\Ventilator_RealTime.csproj.CoreCompileInputs.cache
 C:\Users\Tone\source\repos\Ventilator_RealTime\Ventilator_RealTime\obj\Debug\Ventilator_RealTime.exe
 C:\Users\Tone\source\repos\Ventilator_RealTime\Ventilator_RealTime\obj\Debug\Ventilator_RealTime.pdb
+C:\Users\Tone\Documents\GitHub\Ventilator_RealTime\Ventilator_RealTime\bin\Debug\Ventilator_RealTime.exe.config
+C:\Users\Tone\Documents\GitHub\Ventilator_RealTime\Ventilator_RealTime\bin\Debug\Ventilator_RealTime.exe
+C:\Users\Tone\Documents\GitHub\Ventilator_RealTime\Ventilator_RealTime\bin\Debug\Ventilator_RealTime.pdb
+C:\Users\Tone\Documents\GitHub\Ventilator_RealTime\Ventilator_RealTime\obj\Debug\Ventilator_RealTime.csprojAssemblyReference.cache
+C:\Users\Tone\Documents\GitHub\Ventilator_RealTime\Ventilator_RealTime\obj\Debug\Ventilator_RealTime.Form1.resources
+C:\Users\Tone\Documents\GitHub\Ventilator_RealTime\Ventilator_RealTime\obj\Debug\Ventilator_RealTime.Properties.Resources.resources
+C:\Users\Tone\Documents\GitHub\Ventilator_RealTime\Ventilator_RealTime\obj\Debug\Ventilator_RealTime.csproj.GenerateResource.cache
+C:\Users\Tone\Documents\GitHub\Ventilator_RealTime\Ventilator_RealTime\obj\Debug\Ventilator_RealTime.csproj.CoreCompileInputs.cache
+C:\Users\Tone\Documents\GitHub\Ventilator_RealTime\Ventilator_RealTime\obj\Debug\Ventilator_RealTime.exe
+C:\Users\Tone\Documents\GitHub\Ventilator_RealTime\Ventilator_RealTime\obj\Debug\Ventilator_RealTime.pdb
