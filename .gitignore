@@ -1,0 +1,7 @@
+
+*.ide-shm
+*.lock
+*.ide
+*.ide-wal
+.vs/Ventilator_RealTime/DesignTimeBuild/.dtbcache
+.vs/Ventilator_RealTime/v15/.suo
